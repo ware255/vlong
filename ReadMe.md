@@ -1,4 +1,4 @@
-# vlong
+# very long integer
 ロシア製多倍長整数ライブラリを改良
 
 俺の作った[多倍長整数ライブラリ](https://github.com/ware255/bint)より高速
